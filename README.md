@@ -8,6 +8,4 @@ bucket dataset of over 10,000 e-books.
 
 ### Built With
 
-Java
-GCP
-Hadoop
+Java, GCP and Hadoop
